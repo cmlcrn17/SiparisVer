@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299506309716",
+    "firebase_url": "https://siparisver-76160.firebaseio.com",
+    "project_id": "siparisver-76160",
+    "storage_bucket": "siparisver-76160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299506309716:android:ddc6c3c3a123c54f",
+        "android_client_info": {
+          "package_name": "com.cerenerdem.siparisver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299506309716-ak97pt3rlv1ep9kjccd8dqo0vdkv2n84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzJ8HiRjXFlu0lI9mlu1c7lRkyb0ioAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

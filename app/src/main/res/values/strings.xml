@@ -1,0 +1,12 @@
+<resources>
+    <string name="uygulama_adi">Sipariş Ver</string>
+
+    <array name="spn_urunler">
+        <item>Çay</item>
+        <item>Su</item>
+        <item>Kahve</item>
+    </array>
+
+
+</resources>
+
